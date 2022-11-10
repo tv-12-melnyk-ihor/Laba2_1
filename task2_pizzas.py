@@ -10,8 +10,6 @@ class Pizza:
         ingredfile.close()
 
     def add_ingredient(self, ingr):
-        if(isinstance(ingr, str) == False):
-            raise TypeError("The ingredients have to be string values")
         if(self.isvalid(ingr) == False):
             return "invalid"
         if(self.is_already_added(ingr) == True):
