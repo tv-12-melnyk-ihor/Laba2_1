@@ -1,0 +1,7 @@
+1-Monday_Pizza
+2-Tuesday_Pizza
+3-Wednesday_Pizza
+4-Super_Pizza
+5-Vegetarian_Pizza
+6-Meat_Pizza
+7-The_Louis_XIII_Pizza
